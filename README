@@ -1,0 +1,7 @@
+Pinger
+
+pinger.js uses node.js and socket.io to reverse an ip address and sends red/green message to rowser according to the state of the connection. red bad, green good.
+
+dependencies:
+ Node.js
+ Socket.io
